@@ -37,7 +37,7 @@ Engage in the nitty-gritty of various array methods, enhanced by the window `pro
 In this module, apply learned array methods in a practical scenario: crafting a dynamic grocery list.
 
 ### Instructions
-1. **Initiation**: Begin by forking and cloning the provided [GitHub Repository](URL_HERE).
+1. **Initiation**: Begin by forking and cloning the provided [GitHub Repository](https://github.com/DevLinx76/block16.git).
 2. **Examination**: Browse through the `README.md` file to understand the proceedings.
 
 ### Criteria for Evaluation
