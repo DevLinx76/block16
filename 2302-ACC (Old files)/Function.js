@@ -18,32 +18,32 @@
 // string "Your grand total is ${finalAmount}." 
 
 
-// Directions:
-// 1. Copy and paste the following customer objects into a new index.js file:
+// // Directions:
+// // 1. Copy and paste the following customer objects into a new index.js file:
 
-const timmy = {
-    prescription: "acetaminophen",
-    pricePerRefill: 25,
-    refills: 3,
-    subscription: false,
-    coupon: true,
-};
+// const timmy = {
+//     prescription: "acetaminophen",
+//     pricePerRefill: 25,
+//     refills: 3,
+//     subscription: false,
+//     coupon: true,
+// };
 
-const sarah = {
-    prescription: "diphenhydramine",
-    pricePerRefill: 50,
-    refills: 1,
-    subscription: true,
-    coupon: false,
-}
+// const sarah = {
+//     prescription: "diphenhydramine",
+//     pricePerRefill: 50,
+//     refills: 1,
+//     subscription: true,
+//     coupon: false,
+// }
 
-const rocky = {
-    prescription: "phenylephrine",
-    pricePerRefill: 30,
-    refills: 5,
-    subscription: true,
-    coupon: true,
-}
+// const rocky = {
+//     prescription: "phenylephrine",
+//     pricePerRefill: 30,
+//     refills: 5,
+//     subscription: true,
+//     coupon: true,
+// }
 
 // 2. Using what we know about functions, pseudocode the prompt and a 
 //    solution with your partner.

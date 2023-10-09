@@ -63,18 +63,18 @@
 //
 // holidayShopping(budget, giftsWithTax);
 
-// Practice 2:
+// // Practice 2:
 
-const budget = 100;
-const price1 = 50;
-const price2 = 46;
+// const budget = 100;
+// const price1 = 50;
+// const price2 = 46;
 
-function sumOfGifts(gift1, gift2) {
-    return gift1 + gift2;
-}
+// function sumOfGifts(gift1, gift2) {
+//     return gift1 + gift2;
+// }
 
-const giftTotal = sumOfGifts(price1, price2)  
+// const giftTotal = sumOfGifts(price1, price2)  
 
-function addTax (giftTotal) {
-    return giftTotal + (giftTotal * 0.08)
-}
+// function addTax (giftTotal) {
+//     return giftTotal + (giftTotal * 0.08)
+// }
